@@ -11,7 +11,7 @@
 \
 **Submitted By**
 
-### **[YOUR NAME] &nbsp;&nbsp;&nbsp;&nbsp; – &nbsp;&nbsp;&nbsp;&nbsp; (23691A0XXX)**
+### Chalapathi Gari Meenakshi &nbsp;&nbsp;&nbsp;&nbsp; – &nbsp;&nbsp;&nbsp;&nbsp; (24691A3798)
 
 \
 \
@@ -50,13 +50,13 @@
 
 \
 \
-I (**[YOUR NAME] – [YOUR ROLL NUMBER], [YEAR / BRANCH, e.g., IV B.Tech / CSE - Cybersecurity]**) hereby declare that the report submitted by me under the supervision of **Dr. KUMAR C, MITS Cisco Networking Academy Instructor** in partial fulfillment of the award of **“Cisco Virtual Internship Program 2025”** through **AICTE**, has no plagiarism issues.
+I (**Chalapathi Gari Meenakshi – 24691a3798, [2026 / 3rd year CSE - Cybersecurity]**) hereby declare that the report submitted by me under the supervision of **Dr. KUMAR C, MITS Cisco Networking Academy Instructor** in partial fulfillment of the award of **“Cisco Virtual Internship Program 2025”** through **AICTE**, has no plagiarism issues.
 
 \
 \
 \
 \
-**Date :** [Date of Submission, e.g., 29-08-2026]  
+**Date :** [29-08-2026]  
 **Place :** Madanapalle  
 
 \
@@ -68,8 +68,8 @@ I (**[YOUR NAME] – [YOUR ROLL NUMBER], [YEAR / BRANCH, e.g., IV B.Tech / CSE -
 \
 \
 __________________________________________  
-**[YOUR NAME]**  
-(Roll No: 23691A0XXX)
+**[Chalapathi Gari Meenakshi]**  
+(Roll No: 24691a3798)
 
 ---
 
